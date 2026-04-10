@@ -1,0 +1,40 @@
+# gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+.gradletasknamecache
+
+# forge
+run/
+run-data/
+src/generated/
+
+# ide
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.eclipse/
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# os
+.DS_Store
+Thumbs.db
+
+# project-local
+references/
+docs/
+libs/
+hs_err_pid*.log
+replay_pid*.log
+
+# claude / ai tooling
+.claude/
+memory/
+CLAUDE.md

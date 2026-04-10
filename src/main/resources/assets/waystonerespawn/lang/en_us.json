@@ -1,0 +1,5 @@
+{
+  "waystonerespawn.bed_disabled": "Warning: Beds no longer are respawn points (Waystone Respawn)",
+  "waystonerespawn.spawn_set": "Respawn point set (Waystone Respawn)",
+  "waystonerespawn.spawn_lost": "Your waystone was destroyed. You have been returned to the world spawn."
+}
