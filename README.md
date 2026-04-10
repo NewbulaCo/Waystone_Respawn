@@ -4,7 +4,7 @@ A Minecraft Forge mod for 1.20.1 that replaces bed respawning with waystone resp
 
 Beds and respawn anchors no longer set your spawn point. Instead, the last waystone you used (activated or teleported to) becomes your respawn point. If that waystone is destroyed, you fall back to world spawn.
 
-The goal is to make survival a little harder by removing the cheap, anywhere-you-can-place-a-bed safety net.
+The goal is to make survival a little harder by removing the easily accessable safety net of beds.
 
 ## Requirements
 
