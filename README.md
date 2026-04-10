@@ -17,7 +17,7 @@ The goal is to make survival a little harder by removing the cheap, anywhere-you
 
 Drop the jar into your `mods/` folder alongside Waystones and Balm.
 
-This mod is server-side only — clients connecting to a server with it installed do not need it themselves.
+This mod is server-side only, clients connecting to a server with it installed do not need it themselves.
 
 ## Building
 
